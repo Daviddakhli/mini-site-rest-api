@@ -11,7 +11,7 @@ The purpose of this project is to provide a standard REST JSON-API that would al
 
 
 # Installation 
-* clone the project : `https://github.com/Daviddakhli/mini-site-api.git`
+* clone the project : `git@github.com:kdakhli/mini-site-rest-api.git`
 
 * inside the project folder run : `composer install`
 
